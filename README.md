@@ -19,4 +19,4 @@ Database
 2021/06/29 178. Rank Scores  
 2021/07/04 180. Consecutive Numbers  
 2021/07/06 185. Department Top Three Salaries  
-
+2021/07/10 184. Department Highest Salary  
